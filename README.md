@@ -27,3 +27,5 @@ The project is under the GPLv3, so, feel free to edit the source code
 ## Contact
 
 For help or feedback, e-mail me :)
+
+![Test meme generated!](./2532.png)
